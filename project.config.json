@@ -22,8 +22,8 @@
     "useCompilerPlugins": false
   },
   "compileType": "miniprogram",
-  "libVersion": "2.10.0",
-  "appid": "wx69d100a1a9b2738d",
+  "libVersion": "2.25.3",
+  "appid": "touristappid",
   "projectname": "Housekeeping",
   "condition": {},
   "packOptions": {
